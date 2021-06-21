@@ -19,7 +19,7 @@ Import bootstrap in index.jsx: `import 'bootstrap/dist/css/bootstrap.min.css';`
 
 Import needed components at the top of file: `import {<component>} from ‘react-bootstrap’` 
 
-Inspiration for components
+Components
 https://react-bootstrap.github.io/components/alerts
 
 
